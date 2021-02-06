@@ -74,7 +74,7 @@ user_table_insert = ("""
     VALUES (%s, %s, %s, %s, %s)
     ON CONFLICT (user_id)
     DO 
-    UPDATE SET level = excluded.level;
+    UPDATE SET level = excluded.level
     ;
 """)
 
