@@ -1,2 +1,4 @@
 *.zip
 *.code-workspace
+*.ipynb_checkpoints
+__pycache__

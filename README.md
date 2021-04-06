@@ -6,3 +6,5 @@ Projects Done So far:
 1. Data Modeling with Postgresql
 
 2. Data Modeling with Cassandra
+
+3. Data Warehouse
